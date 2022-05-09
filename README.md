@@ -1,3 +1,2 @@
-# README.md
-This is a read me
-
+# TTC_processing
+This project represents some research on and practice with the National Language Toolkit (NLTK) library for Python. I used string methods to normalize the text before using NLTK to tokenize and tag words with their part-of-speech. I began to write a list comprehension to lemmatize my list of words, but more research is needed to progress. I wrote my progress to the file notlemmatiized.txt
